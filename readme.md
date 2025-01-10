@@ -1,3 +1,4 @@
-# Hi there! 👋
+# Hi, I’m Abdurrauf Sakenov! 👋
 
-I'm **Abdurrauf Sakenov**, a passionate developer specializing in full-stack development. 🚀
+🚀 **Web3 Developer** passionate about building decentralized applications (dApps) and smart contracts.  
+🌟 Skilled in **Solidity**, **Ethereum**, **Hardhat**, and **React**.  
