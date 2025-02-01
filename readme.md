@@ -1,4 +1,5 @@
-# Hi, I’m Abdurrauf Sakenov! 👋
+# Hi, I’m Sakenov Abdurrauf 👋
+## Stylized as "**XBDURRXUF I**"
 
-🚀 **Web3 Developer** passionate about building decentralized applications (dApps) and smart contracts.  
-🌟 Skilled in **Solidity**, **Ethereum**, **Hardhat**, and **React**.  
+🚀 **Web3 Developer, Building dApps and smart contracts on Binance smart chain**
+🌟 Skilled in **Solidity**, **Ethereum**, **Hardhat**, and **Next.Js**.
