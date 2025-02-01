@@ -1,5 +1,5 @@
-# Hi, I’m Sakenov Abdurrauf 👋
-Stylized as "**XBDURRXUF I**"
+<p style="font-size: 36px; font-weight: 800; margin: 0; padding: 0;">Hi, I'm Sakenov Abdurrauf</p>
+<span style="font-size: 15px; font-weight: 600; text-align: right; margin-bottom: 16px;">Stylized as "XBDURRXUF I"</span>
 
-🚀 **Web3 Developer, Building dApps and smart contracts on Binance smart chain**
-🌟 Skilled in **Solidity**, **Ethereum**, **Hardhat**, and **Next.Js**.
+🚀 **Web3 Developer** | Building dApps & Smart Contracts on **Binance Smart Chain**  
+🌟 Skilled in **Solidity**, **Ethereum**, **Hardhat**, and **Next.js** 
