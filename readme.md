@@ -1,6 +1,21 @@
-# Hi, I’m Sakenov Abdurrauf!
+# Hi, I’m XBDURRXUF I
 
 🚀 **Web3 Developer** building dApps and smart contracts on Binance Smart Chain (BSC20).  
-🌟 Skilled in **Solidity**, **Ethereum**, **Hardhat**, and **Next.js**.  
+🌟 **Solidity**, **Ethereum**, **Hardhat**, **Next.js** **Prisma**, **GraphQL**, **Nest.Js**
 
-![snake gif](https://github.com/defiveninth/defiveninth/blob/output/github-contribution-grid-snake.gif)
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
