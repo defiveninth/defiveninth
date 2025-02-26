@@ -3,4 +3,4 @@
 🚀 Web3 developer building smart contracts, protocols and dApps on Binance Smart Chain (BSC20)  
 🌟 **Solidity & TypeScript** on Finance
 <br />
-🎯 **Next.js, Nest.js, TypeORM, Prisma, GraphQL, Three.js, Redis, Fastify, RxJs, Ether.js, OSINT**
+🎯 **Next.js, Angular.js, Three.js, Nest.js, TypeORM, Prisma, Sequelize, GraphQL, Redis, Kafka, HardHat**
