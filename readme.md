@@ -85,10 +85,10 @@ Narxoz AI Studio | Frontend-разработчик | Next JS<br>
 <br>Мобильные приложений<br>
 * [Tekser](./projects/tekser/readme.md) — Screenshots React Native Gemini AI
 * [Wagwan](./projects/wagwan/readme.md) — Screenshots React Native
-* [Book Table](./projects/book-table/readme.md) — Screenshots Source Code Swift
+* [Book Table](https://github.com/defiveninth/book-table/blob/main/readme.md) — Screenshots Source Code Swift
 
 <br>Серверный приложений<br>
-* [Book Table Server](https://github.com/defiveninth/rrs-mobile/blob/main/rrs-server/README.md) — Source Code Documentation ExpressJS SQLite
+* [Book Table Server](https://github.com/defiveninth/book-table/blob/main/rrs-server/README.md) — Source Code Documentation ExpressJS SQLite
 * [Smart Parking Server](https://github.com/dilfuza00/parking-app/blob/main/server/README.md) — Source Code Documentation ExpressJS SQLite
 * [TakeQuiz Server](https://github.com/defiveninth/quiz-app-back/blob/new-branch/README.md) — Source Code Documentation Nestjs SMTP Prisma PSQL
 
