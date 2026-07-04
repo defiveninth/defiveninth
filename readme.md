@@ -81,6 +81,7 @@ Narxoz AI Studio | Frontend-разработчик | Next JS<br>
 * [SenseLab](./projects/senselab/readme.md) — Screenshots Source Code NextJs Gemini AI
 * [Nextgen blogpost](./projects/nextgen-blogpost/readme.md) — Screenshots Source Code NextJs PSQL
 * [TakeQuiz](https://github.com/defiveninth/quiz-app-front/blob/master/README.md) — Screenshots Source Code NextJS
+* [Flower City](https://github.com/DefiveninthLabs/flower-city/blob/main/README.md) — Screenshots Source Code HTML CSS
 
 <br>Мобильные приложений<br>
 * [Tekser](./projects/tekser/readme.md) — Screenshots React Native Gemini AI
@@ -91,6 +92,7 @@ Narxoz AI Studio | Frontend-разработчик | Next JS<br>
 * [Book Table Server](https://github.com/defiveninth/book-table/blob/main/rrs-server/README.md) — Source Code Documentation ExpressJS SQLite
 * [Smart Parking Server](https://github.com/dilfuza00/parking-app/blob/main/server/README.md) — Source Code Documentation ExpressJS SQLite
 * [TakeQuiz Server](https://github.com/defiveninth/quiz-app-back/blob/new-branch/README.md) — Source Code Documentation Nestjs SMTP Prisma PSQL
+* [Flower City Server](https://github.com/DefiveninthLabs/flower-city/blob/main/backend/README.md) — Source Code Documentation Expressjs SQLite
 
 <br>Terminal, script<br>
 * [Smart Parking AI CV](./projects/parking-count/readme.md) — Screenshots Source Code YOLO openCV Python
