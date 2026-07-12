@@ -1,123 +1,79 @@
-**Сәкенов Абдуррауф Саматұлы**
+# Сәкенов Абдуррауф Саматұлы, Software Engineer
+Email: abdurrauf.sakenov@proton.me Phone: +7 (776) 004 41 05 Telegram: [@defiveninth](https://t.me/defiveninth)  
+Языки: Казахский (родной), Русский (свободный), Английский (B1)
 
-Возраст: 21 год (23.07.2005)<br>
-**Локация & Формат: Алматы | Фуллтайм офис, гибрид, стажировка, удаленка**<br>
-Контакты: +7 (776) 004 41 05 | [t.me/defiveninth](https://t.me/defiveninth) | abdurrauf.sakenov@proton.me<br>
-Языки: Казахский (родной), Русский (свободный), Английский (В1)<br>
-Желаемая ЗП: от 400 000 KZT<br>
-**Желаемая Должность: бекенд разработчик, фронтенд разработчик, разработчик мобильных приложений, Vibe Coder**<br>
-Образование: Университет Нархоз, 4 курс, специальность «IT, Digital Engineer» (**неоконченное высшее**) год окончание 2027
-<hr>
 
-**Опыт работы**<br>
-TeqserTeam | Мобильный разработчик | React Native | Стартап команда<br>
+## Обо мне
+AI-Native Фуллстек & Мобильный инженер с опытом 3+ года. Глубоко владею **JavaScript**, **TypeScript** и **Swift**. Разрабатываю отказоустойчивый backend, проектирую масштабируемые API-решения и создаю мобильные и веб-продукты с глубокой интеграцией БД. Имею практический опыт в EdTech, стартап-командах, цифровизации образовательных процессов вуза. Прикрутил платежку Kaspi для веба и прошел весь квест с публикацией приложения в Google Play.
+
+
+## Навыки
+* **Языки:** Javascript, Typescript, Swift, HTML, CSS, Python, Java
+* **Frontend / Mobile:** React, React Native, Expo App, Next.js, Tailwind, Shadcn/UI, MaterialUI, Ant Design, React-hook-form, React query, i18n, Lucide-react, React-icons, React context api, Figma
+* **Backend / Базы данных:** Nest.js, Express.js, Fastify.js, Prisma, TypeORM, PostgreSQL, MySQL, SQLite, MongoDB, Redis, json, GraphQL, websocket, HTTP, RestAPI, NextAuth, JWT
+* **ИИ & Автоматизация:** Gemini API, Google AI Studio, chatGPT, Claude Code, QWEN, Ollama, Cursor, Antigravity, GitHub Copilot, Codex, OpenCode, NoteLLM
+* **Инструменты & DevOps:** VSCode, XCode, Git, Docker, Vercel, Google Play Console, V0, Remix
+
+
+## Опыт работы
+
+### TeqserTeam | Мобильный разработчик | React Native
 *01.2026 — 05.2026 (Кибербезопасность, инкубатор NURIS)*
+- Поднял мобильное приложение с нуля в команде
+- Интегрировал Kaspi Платеж
+- прошел весь квест с публикацией приложения в Google Play
+- Интегрировал AI мониторинг действий пользователей
 
-Ybirai Education | Frontend-разработчик<br>
+### Ybirai Education | React | Frontend-разработчик
 *12.2023 — 06.2024 (EdTech-стартап)*
+- Создал полную кастомизируемый интерфейс (Drag n Drop)
+- Создал адаптивные страницы
+- Работал с фото, видео файлами
+- Интерграция с сервером, i18n, theme-switcher, context
 
-Narxoz AI Studio | Frontend-разработчик | Next JS<br>
-*02.2023 — 10.2023 (Цифровизация physical-очередей вуза)*
+### Narxoz AI Studio | Next.js | Frontend-разработчик
+*02.2023 — 10.2023 (Цифровизация физических очередей вуза, SaaS)*
+- Создал адаптивные страницы
+- Обновление страницы без перезагрузки браузера (websocket)
+- Интерграция с уведомление в браузере
+- Оптимизация программного кода
 
-<hr>
 
-**Про меня**
-* **Креативность и продуктовое видение:** Всегда анализирую текущее состояние проекта и передлагаю идеи для его дальнейшего развития.
-* **Критическое мышление:** Нацелен на конечный результат; просчитываю долгосрочные последствия принимаемых решений и возможные риски.
-* **Problem Solving (Решение проблем):** Эффективно решаю сложные задачи через глубокое понимание сути проблемы, обсуждение и фокус на нужном результате.
-* **Командная работа и коммуникация:** Профессионально веду деловые обсуждения, эффективно взаимодействую внутри команды и нацелен на общий успех.
-* **Высокая отзывчивость (Responsiveness):** Всегда на связи, оперативно реагирую на рабочие запросы и не игнорирую сообщения в чатах.
-* **Стрессоустойчивость:** Уверенно работаю в условиях высокой многозадачности и плотного потока задач.
-* **Организованность и продуктивность:** Умею эффективно выстраивать свой рабочий процесс для достижения максимальной производительности.
+## Образование
+Форма обучение: Очное  
+Университет: НАО “Университет Нархоз”  
+Год окончание: 2027, неоконченный высший  
+Специальность: IT 6B06103 “Digital Engineering”
 
-<hr>
 
-**Технические навыки**<br>
-Языки программирования<br>
-* **Глубокое знание:** JavaScript (ES6+), TypeScript, Swift, HTML5, CSS3
-* **Базовый опыт:** Python, Java, MQL5
+## Проекты (через ссылку можно увидеть скриншоты, код, или пробовать проект)
 
-<br>Backend-разработка<br>
-* **Фреймворки:** NestJS, Fastify, Express, FastAPI (Python)
-* **ORM / Database Tools:** Prisma, TypeORM
-* **Базы данных:** PostgreSQL, MySQL, SQLite, JSONDB, Redis
+### Веб сайты
+* [Электронная очередь Нархоз](./projects/e-queue/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: orange;">Production Link</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span>
+* [Tekser Landing](./projects/tekser-landing/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: orange;">Production Link</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span>
+* [Mizucare](./projects/mizu-care/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: orange;">Production Link</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span> <span style="color: #7C3AED;">Gemini AI</span>
+* [Smart Parking](./projects/smart-parking/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span>
+* [SenseLab](./projects/senselab/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span> <span style="color: #7C3AED;">Gemini AI</span>
+* [Nextgen blogpost](./projects/nextgen-blogpost/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: #000000;">Next.js</span> <span style="color: #336791;">PSQL</span> <span style="color: #0EA5E9;">Tailwind</span>
+* [TakeQuiz](https://github.com/defiveninth/quiz-app-front/blob/master/README.md) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span>
+* [Flower City](https://github.com/DefiveninthLabs/flower-city/blob/main/README.md) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: #E34F26;">HTML</span> <span style="color: #1572B6;">CSS</span>
 
-<br>Архитектура & Аутентификация<br>
-* **Протоколы и подходы:** RESTful APIs, GraphQL, WebSockets (real-time), MVC, Microservices, HTTP/HTTPS
-* **Авторизация:** JWT, NextAuth, Session-based auth, Интеграция сторонних провайдеров (OAuth / 3rd party)
+### Мобильные приложений
+* [Tekser](./projects/tekser/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: #0088CC;">React Native</span> <span style="color: #7C3AED;">Gemini AI</span>
+* [Wagwan](./projects/wagwan/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: #0088CC;">React Native</span>
+* [Book Table](https://github.com/defiveninth/book-table/blob/main/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: #F05138;">Swift</span>
+* [Wordshot](https://github.com/defiveninth/takeshot) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: #F05138;">Swift</span> <span style="color: #7C3AED;">Gemini AI</span>
 
-<br>Frontend Web<br>
-* **Фреймворки:** React, Next.js (App / Pages Router), Vue
-* **Стилизация & UI:** Tailwind CSS, shadcn/ui, Ant Design, Figma
-* **Управление состоянием:** React Context API, Redux
-* **Инструменты & Деплой:** React Hook Form, lucide-react, react-icons, i18n (мультиязычность), Vercel
+### Серверный приложений
+* [Book Table Server](https://github.com/defiveninth/book-table/blob/main/rrs-server/README.md) — <span style="color: purple;">Source Code</span> <span style="color: magenta;">Documentation</span> <span style="color: #353535;">ExpressJS</span> <span style="color: #003B57;">SQLite</span>
+* [Smart Parking Server](https://github.com/dilfuza00/parking-app/blob/main/server/README.md) — <span style="color: purple;">Source Code</span> <span style="color: magenta;">Documentation</span> <span style="color: #353535;">ExpressJS</span> <span style="color: #003B57;">SQLite</span>
+* [TakeQuiz Server](https://github.com/defiveninth/quiz-app-back/blob/new-branch/README.md) — <span style="color: purple;">Source Code</span> <span style="color: magenta;">Documentation</span> <span style="color: #E0234E;">Nestjs</span> <span style="color: #718096;">SMTP</span> <span style="color: #5A67D8;">Prisma</span> <span style="color: #336791;">PSQL</span>
+* [Flower City Server](https://github.com/DefiveninthLabs/flower-city/blob/main/backend/README.md) — <span style="color: purple;">Source Code</span> <span style="color: magenta;">Documentation</span> <span style="color: #353535;">Expressjs</span> <span style="color: #003B57;">SQLite</span>
 
-<br>Мобильная разработка<br>
-* **Технологии:** React Native (Expo), SwiftUI (iOS native)
-* **Компоненты & UI:** Верстка экранов любой сложности, темная/светлая темы (Theme Switcher), анимации
-* **Функционал:** Интеграция Native API (геолокация, camera), мультиязычность (i18n), обработка push-уведомлений
-* **Клиент-сервер:** Синхронизация данных через HTTP, GraphQL и WebSockets
+### Terminal, script
+* [Smart Parking AI CV](./projects/parking-count/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: #0080FF;">YOLOv8</span> <span style="color: #5C3EE6;">openCV</span> <span style="color: #3776AB;">Python</span>
 
-<br>AI Инструменты & Автоматизация (AI-Driven Development)<br>
-* **Среды разработки & Ассистенты:** Cursor, Claude Code, GitHub Copilot, Codex, OpenCode, Antigravity
-* **Интеграция моделей (LLM API):** Работа и автоматизация процессов на базе Gemini 3.1/3.5, QWEN, ChatGPT, Claude
-* **Локальный ИИ:** Развертывание и использование моделей через Ollama
-* **Скрипты:** Написание Python/JS скриптов для парсинга данных, автоматического заполнения баз данных и имитации действий пользователей
+---
 
-<br>DevOps & Инструменты<br>
-* **Контроль версий:** Git, GitHub, GitLab
-* **Пакетные менеджеры:** npm, yarn, pnpm
-* **Контейнеризация:** Docker
-* **Окружение:** macOS (MacBook)
-
-<hr>
-
-**Проекты (через ссылку можно увидеть скриншоты, код, или пробовать)**<br>
-Веб сайты<br>
-* [Электронная очередь Нархоз](./projects/e-queue/readme.md) — Screenshots Production Link Next.js
-* [Tekser Landing](./projects/tekser-landing/readme.md) — Screenshots Production Link Next.js
-* [Mizucare](./projects/mizu-care/readme.md) — Screenshots Source Code Production Link Next.js Gemini AI
-* [Smart Parking](./projects/smart-parking/readme.md) — Screenshots Source Code Next.js
-* [SenseLab](./projects/senselab/readme.md) — Screenshots Source Code NextJs Gemini AI
-* [Nextgen blogpost](./projects/nextgen-blogpost/readme.md) — Screenshots Source Code NextJs PSQL
-* [TakeQuiz](https://github.com/defiveninth/quiz-app-front/blob/master/README.md) — Screenshots Source Code NextJS
-* [Flower City](https://github.com/DefiveninthLabs/flower-city/blob/main/README.md) — Screenshots Source Code HTML CSS
-
-<br>Мобильные приложений<br>
-* [Tekser](./projects/tekser/readme.md) — Screenshots React Native Gemini AI
-* [Wagwan](./projects/wagwan/readme.md) — Screenshots React Native
-* [Book Table](https://github.com/defiveninth/book-table/blob/main/readme.md) — Screenshots Source Code Swift
-
-<br>Серверный приложений<br>
-* [Book Table Server](https://github.com/defiveninth/book-table/blob/main/rrs-server/README.md) — Source Code Documentation ExpressJS SQLite
-* [Smart Parking Server](https://github.com/dilfuza00/parking-app/blob/main/server/README.md) — Source Code Documentation ExpressJS SQLite
-* [TakeQuiz Server](https://github.com/defiveninth/quiz-app-back/blob/new-branch/README.md) — Source Code Documentation Nestjs SMTP Prisma PSQL
-* [Flower City Server](https://github.com/DefiveninthLabs/flower-city/blob/main/backend/README.md) — Source Code Documentation Expressjs SQLite
-
-<br>Terminal, script<br>
-* [Smart Parking AI CV](./projects/parking-count/readme.md) — Screenshots Source Code YOLO openCV Python
-
-<hr>
-
-**Жизненный активность:**
-
-Тестировал проект [Mizucare](#) на реальных пользователей:
-<br><img src="./on-cv/mizu-care-testing-on-real-users.jpg" width="49%"/> <img src="./on-cv/mizu-care-testing-on-real-users2.jpg" width="49%"/>
-<br>
-Интерес к технологию блокчейн, криптовалюты и торговля на бирже, ивенте от Bybit Kazakhstan, нетворкинг:
-<br><img src="./on-cv/at-bybit-almaty.jpg" width="49%"/> <img src="./on-cv/with-mus-money-bybit.jpg" width="49%"/>
-<br>
-Участие в ABC incubation, прошли до финал:
-<br><img src="./on-cv/tekser-1.jpg" width="49%"/> <img src="./on-cv/tekser-2.jpg" width="49%"/>
-<br>
-Участие в хакатон Halyk Oyi Tech III:
-<br><img src="./on-cv/halyk-hackaton-participant-2025-2.jpg" width="49%"/> <img src="./on-cv/halyk-hackaton-participant-2025.jpg" width="49%"/>
-<br>
-Участие в MUIT стартап питчинг в качестве спикера, помогал участникам составит свой презентаций перед инвесторами:
-<br><img src="./on-cv/MUIT-hackaton-speaker.jpg" width="49%"/> <img src="./on-cv/MUIT-hackaton-speaker.jpg" width="49%"/>
-<br>
-Участие в евенте Freedom: Who on-cvwill be in demand tomorrow:
-<br><img src="./on-cv/interest-in-finance.jpg" width="49%"/> <img src="./on-cv/freedom-2.jpg" width="49%"/>
-<br>
-Участие в мини хакатон от newly AI:
-<br><img src="./on-cv/newly.jpeg" width="100%"/>
+## Жизненная активность
+Вы можете посмотреть подробный список моих активностей (участие в хакатонах, инкубаторах, ивентах) с фотографиями в отдельном файле [life-activities.md](./life-activities.md).
