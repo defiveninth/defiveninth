@@ -1,9 +1,8 @@
 # Сәкенов Абдуррауф Саматұлы
-**Software Engineer**
 
-Привет! Я Абдуррауф, AI-Native Fullstack & Мобильный инженер с фокусом на продуктовой разработке. Мне 21 год, живу в Алматы и обучаюсь на специальности «Digital Engineering» в Университете Нархоз.
+AI-Native Fullstack & Мобильный инженер с фокусом на продуктовой разработке. Мне 21 год, живу в Алматы и обучаюсь на специальности «Digital Engineering» в Университете Нархоз.
 
-Моя страсть — это создание живых, полезных приложений с помощью современных ИИ-инструментов (AI-Driven Development) и эффективной командной работы. Я верю, что хороший разработчик должен не просто писать код по техническому заданию, а глубоко понимать пользователей, постоянно тестировать свои решения в реальном мире и предлагать идеи для развития продукта.
+Мне нравиться чувство когда кому то подобиться мой продукты, кто то его реально использует. Я верю, что хороший разработчик должен не просто писать код по техническому заданию, а глубоко понимать пользователей, постоянно тестировать свои решения в реальном мире и предлагать идеи для развития продукта.
 
 ---
 
@@ -13,41 +12,57 @@
 * **Трейдинг:** Практический интерес к биржевой торговле, техническому анализу и созданию автоматических торговых систем/роботов (имею базовый опыт работы с MQL5).
 * **Криптовалюты & Блокчейн:** Изучение архитектуры Web3, децентрализованных финансов (DeFi), участие в нетворкингах и крипто-мероприятиях (таких как Bybit в Алматы).
 * **Искусственный Интеллект:** Применение LLM и нейросетей в повседневной разработке и автоматизации процессов (AI-Driven Development).
-
+* **Большой теннис:** Регулярные тренировки на корте, развитие выносливости, высокой концентрации и тактического мышления.
 ---
 
 ## Жизненная активность & Достижения
 
 ### Тестирование продукта [Mizucare](./projects/mizu-care/readme.md) на реальных пользователях
 Непосредственное общение с аудиторией для сбора отзывов, проверки удобства использования интерфейса и доработки UX.
-<br><img src="./on-cv/mizu-care-testing-on-real-users.jpg" width="49%"/> <img src="./on-cv/mizu-care-testing-on-real-users2.jpg" width="49%"/>
+<br><img src="./on-cv/mizu-care/mizu-care-testing-on-real-users.jpg" width="49%"/> <img src="./on-cv/mizu-care/mizu-care-testing-on-real-users2.jpg" width="49%"/>
 <br>
 
 ### Блокчейн, криптовалюты и нетворкинг на Bybit Kazakhstan
 Участие в ивентах Bybit в Алматы, изучение децентрализованных технологий и трендов в криптоиндустрии, обмен опытом с комьюнити.
-<br><img src="./on-cv/at-bybit-almaty.jpg" width="49%"/> <img src="./on-cv/with-mus-money-bybit.jpg" width="49%"/>
+<br><img src="./on-cv/crypto-blockchain/at-bybit-almaty.jpg" width="49%"/> <img src="./on-cv/crypto-blockchain/with-mus-money-bybit.jpg" width="49%"/>
 <br>
 
 ### ABC Incubation — Выход в финал
 Проектирование и защита мобильного стартапа [Tekser](./projects/tekser/readme.md) в рамках инкубатора NURIS (Назарбаев Университет). Прошел полный цикл от идеи до рабочей презентации перед экспертами.
-<br><img src="./on-cv/tekser-1.jpg" width="49%"/> <img src="./on-cv/tekser-2.jpg" width="49%"/>
+<br><img src="./on-cv/tekser/tekser-1.jpg" width="49%"/> <img src="./on-cv/tekser/tekser-2.jpg" width="49%"/>
 <br>
 
 ### Участие в хакатоне Halyk Oyi Tech III
 Разработка финтех-прототипов и интенсивная командная работа в условиях жестких временных рамок.
-<br><img src="./on-cv/halyk-hackaton-participant-2025-2.jpg" width="49%"/> <img src="./on-cv/halyk-hackaton-participant-2025.jpg" width="49%"/>
+<br><img src="./on-cv/hackathons/halyk-hackaton-participant-2025-2.jpg" width="49%"/> <img src="./on-cv/hackathons/halyk-hackaton-participant-2025.jpg" width="49%"/>
 <br>
 
 ### Выступление в качестве спикера на MUIT
 Помощь участникам стартап-питчингов в подготовке презентаций, проработке идей и уверенном выступлении перед инвесторами.
-<br><img src="./on-cv/MUIT-hackaton-speaker.jpg" width="49%"/> <img src="./on-cv/MUIT-hackaton-speaker2.jpg" width="49%"/>
+<br><img src="./on-cv/speaking/MUIT-hackaton-speaker.jpg" width="49%"/> <img src="./on-cv/speaking/MUIT-hackaton-speaker2.jpg" width="49%"/>
 <br>
 
 ### Участие в форуме «Freedom: Кто будет востребован завтра»
 Изучение трендов на финансовом и технологическом рынках труда Казахстана.
-<br><img src="./on-cv/interest-in-finance.jpg" width="49%"/> <img src="./on-cv/freedom-2.jpg" width="49%"/>
+<br><img src="./on-cv/events-networking/interest-in-finance.jpg" width="49%"/> <img src="./on-cv/events-networking/freedom-2.jpg" width="49%"/>
 <br>
 
 ### Мини-хакатон от Newly AI
 Быстрое прототипирование решений на базе современных генеративных моделей.
-<br><img src="./on-cv/newly.jpeg" width="100%"/>
+<br><img src="./on-cv/hackathons/newly.jpeg" width="100%"/>
+<br>
+
+### Central Asia Fintech Summit (CAFS) в Алматы
+Посещение ключевого финтех-саммита Центральной Азии: изучение инноваций в цифровом банкинге, платежных технологиях, GovTech и открытых API.
+<br><img src="./on-cv/events-networking/cafs-1.jpg" width="49%"/> <img src="./on-cv/events-networking/cafs-2.jpg" width="49%"/>
+<br>
+
+### Международный теннисный турнир ATP 250 Almaty Open
+Посещение турнира мирового уровня ATP в Алматы — спортивная дисциплина, тактическое мышление и атмосфера большого тенниса.
+<br><img src="./on-cv/tennis/atp-250-1.jpg" width="49%"/> <img src="./on-cv/tennis/atp-250-2.jpg" width="49%"/>
+<br>
+
+### Концерт Kanye West в Алматы
+Посещение масштабного музыкального шоу мирового масштаба — масштабный сценический продакшн, звук и визуальная эстетика.
+<br><img src="./on-cv/concerts/kanye-west-1.jpg" width="49%"/> <img src="./on-cv/concerts/kanye-west-2.jpg" width="49%"/>
+

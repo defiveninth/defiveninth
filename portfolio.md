@@ -1,6 +1,8 @@
 ## Проекты (через ссылку можно увидеть скриншоты, код, или пробовать проект)
 
 ### Веб сайты
+* [xVenture](./projects/xventure/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: orange;">Production Link</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span> <span style="color: #336791;">PSQL</span> <span style="color: #7C3AED;">Gemini AI</span>
+* [orderCup](https://github.com/defiveninth/openCup/blob/main/README.md) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span> <span style="color: #336791;">PSQL</span> <span style="color: #2563EB;">Drizzle</span>
 * [Электронная очередь Нархоз](./projects/e-queue/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: orange;">Production Link</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span>
 * [Tekser Landing](./projects/tekser-landing/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: orange;">Production Link</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span>
 * [Mizucare](./projects/mizu-care/readme.md) — <span style="color: green;">Screenshots</span> <span style="color: purple;">Source Code</span> <span style="color: orange;">Production Link</span> <span style="color: #000000;">Next.js</span> <span style="color: #0EA5E9;">Tailwind</span> <span style="color: #7C3AED;">Gemini AI</span>

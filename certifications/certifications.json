@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Halyk Events: SuperApps & MiniApps Meetup",
+    "accreditation_link": "http://certificates.halykevents.kz/01_928372069.pdf",
+    "file_route": "./certifications/01_928372069.pdf",
+    "image_route": "./certifications/images/01_928372069.png"
+  },
+  {
+    "title": "Halyk Events: Cybersecurity & Antifraud Meetup",
+    "accreditation_link": "http://certificates.halykevents.kz/01_928372069.pdf",
+    "file_route": "./certifications/01_928372069-1.pdf",
+    "image_route": "./certifications/images/01_928372069-1.png"
+  },
+  {
+    "title": "Halyk Events: Ecosystem Meetup",
+    "accreditation_link": "http://certificates.halykevents.kz/01_928372069.pdf",
+    "file_route": "./certifications/01_928372069-2.pdf",
+    "image_route": "./certifications/images/01_928372069-2.png"
+  },
+  {
+    "title": "Halyk Events: BaaS Ecosystems Meetup",
+    "accreditation_link": "https://certificates.halykevents.kz/06_928372069.pdf",
+    "file_route": "./certifications/06_928372069.pdf",
+    "image_route": "./certifications/images/06_928372069.png"
+  },
+  {
+    "title": "Halyk Events: AI Meetup",
+    "accreditation_link": "https://certificates.halykevents.kz/07_928372069.pdf",
+    "file_route": "./certifications/07_928372069.pdf",
+    "image_route": "./certifications/images/07_928372069.png"
+  },
+  {
+    "title": "Coursera: Understanding Research Methods (University of London & SOAS University of London)",
+    "accreditation_link": "https://www.coursera.org/account/accomplishments/verify/75JFL0Z78TBZ",
+    "file_route": "./certifications/coursera_75JFL0Z78TBZ.pdf",
+    "image_route": "./certifications/images/coursera_75JFL0Z78TBZ.png"
+  },
+  {
+    "title": "Coursera: Research Methodologies (Queen Mary University of London)",
+    "accreditation_link": "https://www.coursera.org/account/accomplishments/verify/GC6NKZ8L9XQ9",
+    "file_route": "./certifications/coursera_GC6NKZ8L9XQ9.pdf",
+    "image_route": "./certifications/images/coursera_GC6NKZ8L9XQ9.png"
+  }
+]
