@@ -103,11 +103,12 @@ AI-Native Фуллстек & Мобильный инженер с опытом 4
 * **Ecosystem Meetup** — [Оригинал PDF](./certifications/01_928372069-2.pdf) | [Ссылка аккредитации](http://certificates.halykevents.kz/01_928372069.pdf)
 * **BaaS Ecosystems Meetup** — [Оригинал PDF](./certifications/06_928372069.pdf) | [Ссылка аккредитации](https://certificates.halykevents.kz/06_928372069.pdf)
 * **AI Meetup** — [Оригинал PDF](./certifications/07_928372069.pdf) | [Ссылка аккредитации](https://certificates.halykevents.kz/07_928372069.pdf)
+* **Business & System Analysis Meetup** — [Оригинал PDF](./certifications/01_8125011614.pdf) | [Ссылка аккредитации](http://certificates.halykevents.kz/01_8125011614.pdf)
 
 <br>
 <a href="./certifications/06_928372069.pdf"><img src="./certifications/images/06_928372069.png" width="32%"/></a> <a href="./certifications/07_928372069.pdf"><img src="./certifications/images/07_928372069.png" width="32%"/></a> <a href="./certifications/01_928372069.pdf"><img src="./certifications/images/01_928372069.png" width="32%"/></a>
 <br>
-<a href="./certifications/01_928372069-1.pdf"><img src="./certifications/images/01_928372069-1.png" width="49%"/></a> <a href="./certifications/01_928372069-2.pdf"><img src="./certifications/images/01_928372069-2.png" width="49%"/></a>
+<a href="./certifications/01_928372069-1.pdf"><img src="./certifications/images/01_928372069-1.png" width="32%"/></a> <a href="./certifications/01_928372069-2.pdf"><img src="./certifications/images/01_928372069-2.png" width="32%"/></a> <a href="./certifications/01_8125011614.pdf"><img src="./certifications/images/01_8125011614.png" width="32%"/></a>
 <br>
 
 ### Coursera
