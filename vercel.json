@@ -1,0 +1,43 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/projects/:path*",
+      "destination": "https://github.com/defiveninth/defiveninth/blob/main/projects/:path*",
+      "permanent": false
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/website"
+    },
+    {
+      "source": "/styles.css",
+      "destination": "/website/styles.css"
+    },
+    {
+      "source": "/script.js",
+      "destination": "/website/script.js"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ]
+}

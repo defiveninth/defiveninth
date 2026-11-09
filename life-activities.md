@@ -43,13 +43,8 @@ AI-Native Fullstack & Мобильный инженер с фокусом на �
 <br>
 
 ### Участие в форуме «Freedom: Кто будет востребован завтра»
-Изучение трендов на финансовом и технологическом рынках труда Казахстана.
+Непосредственное изучение трендов на финансовом и технологическом рынках труда Казахстана.
 <br><img src="./on-cv/events-networking/interest-in-finance.jpg" width="49%"/> <img src="./on-cv/events-networking/freedom-2.jpg" width="49%"/>
-<br>
-
-### Мини-хакатон от Newly AI
-Быстрое прототипирование решений на базе современных генеративных моделей.
-<br><img src="./on-cv/hackathons/newly.jpeg" width="100%"/>
 <br>
 
 ### Central Asia Fintech Summit (CAFS) в Алматы

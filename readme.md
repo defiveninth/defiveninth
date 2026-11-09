@@ -6,12 +6,6 @@ Instagram: [@abdurrvuf](https://www.instagram.com/abdurrvuf)<br>
 Языки: Казахский (родной), Русский (свободный), Английский (B1)
 
 ## Обо мне
-xVenture - CTO команды<br>
-AIStartify Academy - Владелец & CEO<br>
-LVMH - Operations & Supply Chain<br>
-Narxoz DTT - AI & Software Engineer (CO-OP)<br>
-AIStartify - Разработчик<br>
-
 AI-Native Фуллстек & Мобильный инженер с опытом 4+ года. Глубоко владею **JavaScript**, **TypeScript** и **Swift**. Имею практический опыт в EdTech, стартап-командах, цифровизации образовательных процессов вуза.
 
 ## Навыки
@@ -31,13 +25,13 @@ AI-Native Фуллстек & Мобильный инженер с опытом 4
 - Проектирование игровой механики AI-батлов, честного ELO-лидерборда и экономики
 - Внедрение CI/CD Quality Gates, автотестов критической логики и защиты от Pay-to-Win
 
-### LVMH | Стажер | Operations & Supply Chain
+### LVMH | Operations & Supply Chain | Retail & Client Experience
 *09.2026 — по настоящее время (Люксовый ритейл, цепочки поставок)*
 - Изучение и анализ сквозных логистических цепочек и операционных процессов группы LVMH
 - Мониторинг движения товарных запасов, оптимизация складских потоков и внутренних регламентов поставок
 - Погружение в бизнес-стандарты управления качеством, аналитики и операционной эффективности мирового luxury-бренда
 
-### Narxoz University | AI & Software Engineer (CO-OP)
+### Narxoz IDTAI | Software Engineer
 *09.2026 — по настоящее время (Департамент цифровых технологий и инноваций)*
 - Разработка и внедрение production MCP-серверов (Model Context Protocol over SSE/stdio) на Python (FastAPI) для интеграции LLM-ассистентов с корпоративным LibreChat
 - Интеграция AI-моделей с базами данных Platonus (MySQL) и Canvas LMS для безопасного доступа к академическим профилям, расписанию и оценкам
@@ -118,6 +112,12 @@ AI-Native Фуллстек & Мобильный инженер с опытом 4
 <br>
 <a href="https://www.coursera.org/account/accomplishments/verify/75JFL0Z78TBZ"><img src="./certifications/images/coursera_75JFL0Z78TBZ.png" width="49%"/></a> <a href="https://www.coursera.org/account/accomplishments/verify/GC6NKZ8L9XQ9"><img src="./certifications/images/coursera_GC6NKZ8L9XQ9.png" width="49%"/></a>
 
+### Newly AI
+* **Мини-хакатон от Newly AI** — [Оригинал Сертификата](./on-cv/hackathons/newly.jpeg)
+
+<br>
+<a href="./on-cv/hackathons/newly.jpeg"><img src="./on-cv/hackathons/newly.jpeg" width="49%"/></a>
+
 ---
 
 ## Образование
@@ -156,11 +156,6 @@ AI-Native Фуллстек & Мобильный инженер с опытом 4
 ### Участие в форуме «Freedom: Кто будет востребован завтра»
 Изучение трендов на финансовом и технологическом рынках труда Казахстана.
 <br><img src="./on-cv/events-networking/interest-in-finance.jpg" width="49%"/> <img src="./on-cv/events-networking/freedom-2.jpg" width="49%"/>
-<br>
-
-### Мини-хакатон от Newly AI
-Быстрое прототипирование решений на базе современных генеративных моделей.
-<br><img src="./on-cv/hackathons/newly.jpeg" width="100%"/>
 <br>
 
 ### Central Asia Fintech Summit (CAFS) в Алматы
