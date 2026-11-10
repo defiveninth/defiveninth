@@ -46,5 +46,11 @@
     "accreditation_link": "https://www.coursera.org/account/accomplishments/verify/GC6NKZ8L9XQ9",
     "file_route": "./certifications/coursera_GC6NKZ8L9XQ9.pdf",
     "image_route": "./certifications/images/coursera_GC6NKZ8L9XQ9.png"
+  },
+  {
+    "title": "INSIDE LVMH Certificate (Operations & Supply-Chain, Retail & Client Experience)",
+    "accreditation_link": "https://www.insidelvmh.com/certificate/c5cb729a-1f17-40c9-ae68-59290107a293",
+    "file_route": "./certifications/lvmh.pdf",
+    "image_route": "./certifications/images/lvmh.png"
   }
 ]

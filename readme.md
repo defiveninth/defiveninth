@@ -118,6 +118,12 @@ AI-Native Фуллстек & Мобильный инженер с опытом 4
 <br>
 <a href="./on-cv/hackathons/newly.jpeg"><img src="./on-cv/hackathons/newly.jpeg" width="49%"/></a>
 
+### LVMH
+* **INSIDE LVMH Certificate** (Operations & Supply-Chain, Retail & Client Experience) — [Оригинал PDF](./certifications/lvmh.pdf) | [Ссылка аккредитации](https://www.insidelvmh.com/certificate/c5cb729a-1f17-40c9-ae68-59290107a293)
+
+<br>
+<a href="https://www.insidelvmh.com/certificate/c5cb729a-1f17-40c9-ae68-59290107a293"><img src="./certifications/images/lvmh.png" width="49%"/></a>
+
 ---
 
 ## Образование
